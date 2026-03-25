@@ -1,0 +1,13 @@
+{
+  "sessionId": "demo-session",
+  "sessionName": "Demo IMSA Race",
+  "sessionType": "race",
+  "timestamp": "2026-03-25T00:00:00.000Z",
+  "raceControlMessages": [],
+  "cars": [
+    { "id": "1", "driverName": "Alex Prototype", "carNumber": "12", "carClass": "GTP", "position": 1, "flags": [] },
+    { "id": "2", "driverName": "Jordan Fast", "carNumber": "27", "carClass": "GT3", "position": 7, "flags": [] },
+    { "id": "3", "driverName": "You Driver", "carNumber": "88", "carClass": "GT3", "position": 9, "flags": [] },
+    { "id": "4", "driverName": "Casey Pace", "carNumber": "29", "carClass": "GT3", "position": 10, "flags": [] }
+  ]
+}

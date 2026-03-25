@@ -1,0 +1,9 @@
+services:
+  racebot:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - LOG_LEVEL=info
+    volumes:
+      - ./config:/app/config
