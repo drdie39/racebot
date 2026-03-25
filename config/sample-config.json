@@ -1,0 +1,17 @@
+{
+  "myDriverName": "You Driver",
+  "myCarNumber": "88",
+  "sessionUrlOrId": "demo-session",
+  "pollingIntervalMs": 5000,
+  "duplicateCooldownMs": 30000,
+  "pitStopThresholdPercent": 15,
+  "minPitSamplesPerClass": 3,
+  "discord": {
+    "mode": "webhook",
+    "roleId": "123456789012345678",
+    "webhookUrl": "https://discord.com/api/webhooks/..."
+  },
+  "driverAliasMap": {
+    "You Driver": ["Team Driver 2", "Team Driver 3"]
+  }
+}
